@@ -22,5 +22,15 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 
 # Output
 
+1.When the eyes are opened
+
+![1639494926719](https://user-images.githubusercontent.com/88675259/146026011-4080342f-acd0-46b0-a648-7dccd3e30af5.jpg)
+
+2.When the eyes get closed
+
+![1639494926723](https://user-images.githubusercontent.com/88675259/146026104-9ec9af26-5b5f-4934-bd7f-4ebe6dc535e9.jpg)
+
+
+
 
 
